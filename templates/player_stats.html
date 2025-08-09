@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ player.name }} - Stats</title>
+</head>
+<body>
+    <h1>{{ player.name }}</h1>
+    <p>Goals: {{ player.goals }}</p>
+    <p>Assists: {{ player.assists }}</p>
+    <a href="{{ url_for('index') }}">Back to player list</a>
+</body>
+</html>

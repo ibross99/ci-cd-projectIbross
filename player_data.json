@@ -1,0 +1,29 @@
+{
+  "players": [
+    { "name": "Alisson Becker", "goals": 0, "assists": 1 },
+    { "name": "Caoimhín Kelleher", "goals": 0, "assists": 0 },
+    { "name": "Adrián", "goals": 0, "assists": 0 },
+    { "name": "Virgil van Dijk", "goals": 4, "assists": 2 },
+    { "name": "Ibrahima Konaté", "goals": 1, "assists": 1 },
+    { "name": "Joe Gomez", "goals": 0, "assists": 3 },
+    { "name": "Jarell Quansah", "goals": 1, "assists": 0 },
+    { "name": "Trent Alexander-Arnold", "goals": 5, "assists": 12 },
+    { "name": "Conor Bradley", "goals": 1, "assists": 3 },
+    { "name": "Andy Robertson", "goals": 3, "assists": 5 },
+    { "name": "Kostas Tsimikas", "goals": 0, "assists": 4 },
+    { "name": "Wataru Endō", "goals": 2, "assists": 1 },
+    { "name": "Alexis Mac Allister", "goals": 7, "assists": 7 },
+    { "name": "Dominik Szoboszlai", "goals": 7, "assists": 4 },
+    { "name": "Harvey Elliott", "goals": 4, "assists": 6 },
+    { "name": "Curtis Jones", "goals": 5, "assists": 3 },
+    { "name": "Ryan Gravenberch", "goals": 4, "assists": 2 },
+    { "name": "Stefan Bajcetic", "goals": 1, "assists": 0 },
+    { "name": "Bobby Clark", "goals": 1, "assists": 0 },
+    { "name": "Mohamed Salah", "goals": 25, "assists": 14 },
+    { "name": "Darwin Núñez", "goals": 18, "assists": 13 },
+    { "name": "Diogo Jota", "goals": 15, "assists": 4 },
+    { "name": "Cody Gakpo", "goals": 16, "assists": 6 },
+    { "name": "Luis Díaz", "goals": 13, "assists": 5 },
+    { "name": "Ben Doak", "goals": 1, "assists": 1 }
+  ]
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liverpool Player Stats</title>
+</head>
+<body>
+    <h1>Liverpool Player Stats</h1>
+    <ul>
+        {% for player in players %}
+            <li><a href="{{ url_for('player_stats', player_name=player.name.replace(' ', '-')) }}">{{ player.name }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
