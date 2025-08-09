@@ -12,5 +12,7 @@
             <li><a href="{{ url_for('player_stats', player_name=player.name.replace(' ', '-')) }}">{{ player.name }}</a></li>
         {% endfor %}
     </ul>
+    <br>
+    <a href="{{ url_for('add_player_manually') }}">Add Player Manually</a>
 </body>
 </html>
